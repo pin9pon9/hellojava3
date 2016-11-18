@@ -186,7 +186,7 @@ public class calculatorMain {
       }while(yesno); //스위치문 안에 yesno 변수를넣어주면 while문에서 작동 안함 scope 발생
       System.out.println("종료되었습니다.");
       System.out.println("종료되었습니다.");
-
+      
    }   
    
   
